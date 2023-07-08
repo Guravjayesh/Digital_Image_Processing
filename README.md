@@ -1,4 +1,4 @@
 # Digital_Image_Processing
 
 
-## Fourier Transformation 
+## Image Transformation 
